@@ -6,3 +6,5 @@
 <br />
 deepLearning2022FallFinalProject
 
+## Licence
+Distributed under the MIT License.
