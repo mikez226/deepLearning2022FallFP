@@ -7,5 +7,9 @@ Motivated by the tendency and inspiration of NLP and object detection techniques
 ## Codebase
 check source code in the file 
 > dLFinalProjCodeBase.ipynb
-## Licence
+
+## Example
+![截屏2023-05-04 12 42 41](https://user-images.githubusercontent.com/50295329/236270299-c2596665-9670-41a5-897d-8f1b8692df0f.png)
+
+##Licence
 Distributed under the MIT License.
